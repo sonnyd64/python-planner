@@ -1,6 +1,6 @@
 More to come...
 
-Next Concepts:
-    a. Automated testing
-    b. Web UI
-    c. 
+**Next Concepts:**
+   1. Automated testing
+   2. Web UI
+   3. ???
